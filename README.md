@@ -6,7 +6,7 @@
 
 ## 好きな言語・使う言語
 
-**Red言語大好き人間**です。日本で一番Red言語でコーディングしているのではないでしょうか・・・。
+[Red言語](https://github.com/red/red)大好き人間です。日本で一番Red言語でコーディングしているのではないでしょうか・・・。
 
 マイナー言語好きで、現在は[Unison](https://github.com/unisonweb/unison)や[Imba](https://github.com/imba/imba)にも注目しています。
 
