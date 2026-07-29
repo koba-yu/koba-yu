@@ -15,5 +15,5 @@ C#はエンジニアキャリアをずっと共にしてきた相棒。Jetbrains
 ## SNS
 
 * [Qiita](https://qiita.com/koba-a-koba)
-* [Twitter](https://twitter.com/koba_yu_pg)
+* [X](https://x.com/koba_yu_pg)
 * [DEV Community](https://dev.to/kobayu)
